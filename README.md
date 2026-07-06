@@ -1,0 +1,2 @@
+# Newshristi
+My first Repository.
